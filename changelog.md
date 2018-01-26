@@ -7,6 +7,8 @@ Must put name beside each entry
 Newest changes at top
 
 List of Changes
+Martin - Converted site from basic to good
+Martin - Added goodsite branch
 Sam - Converted site from trivial to basic
 Sam - Added template view and modified welcome, about, and gallery views
 Martin - Converted site from static to trivial
